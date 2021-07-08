@@ -2,7 +2,6 @@
 - 👀 I’m interested in **Frontend Web Development**
 - 😎 Although I am a **Fullstack Developer**.
 - 🌱 I’m currently learning **ReactJS**
-- 💼 I'm open to work.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 🌐 Click [here](https://ammielyawson.netlify.app) to view my website
 - 📫 You can reach me @amm_duncan - Instagram
