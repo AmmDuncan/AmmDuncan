@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **ReactJS**
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me @amm_duncan - Instagram
-                      @amm_duncan - Twitter
+                      @ammduncan - Twitter
 
 <!---
 AmmDuncan/AmmDuncan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
