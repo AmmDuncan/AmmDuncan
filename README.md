@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Ammiel Yawson**
-- 👀 I’m interested in **Frontend Web Development**
+- 👀 I’m interested in **React JS and Frontend Web Development**
 - 😎 Although I am a **Fullstack Developer**.
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Next.js**
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 🌐 Click [here](https://ammielyawson.netlify.app) to view my website
 - 📫 You can reach me @amm_duncan - Instagram
