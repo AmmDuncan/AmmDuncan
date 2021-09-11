@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Ammiel Yawson**
-- 👀 I’m interested in **React JS and Frontend Web Development**
-- 😎 Although I am a **Fullstack Developer**.
+- 👀 I’m interested in **React JS and associated technnologies like Next.js and Redux**
 - 🌱 I’m currently learning **Next.js**
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 🌐 Click [here](https://ammielyawson.netlify.app) to view my website
