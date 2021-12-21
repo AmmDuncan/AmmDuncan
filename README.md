@@ -1,8 +1,9 @@
 - 👋 Hi, I’m **Ammiel Yawson**
-- 👀 I’m interested in **React JS and associated technnologies like Next.js and Redux**
-- 🌱 I’m currently learning **Next.js**
+- 🎯 I'm interested in Fullstack Web Development. 
+- 🍾 But I enjoy working on **Frontends** most.
+- 🧰 Technologies I've used: `React`, `Next.js`, `Vue`, `JavaScript`, `Sass`, `Css`, `HTML`, `Django`, `Strapi` 
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 🌐 Click [here](https://ammielyawson.netlify.app) to view my website
+- 🌐 Click [here](https://ammielyawson.com) to view my website
 - 📫 You can reach me @amm_duncan - Instagram
                       @ammduncan - Twitter
 
