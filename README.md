@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Ammiel Yawson**
-- 🎯 I'm interested in Fullstack Web Development. 
-- 🍾 But I enjoy working on **Frontends** most.
+- 🎯 I'm interested in solving problems with code. 
+- 🍾 I enjoy working on **Frontends** most.
 - 🧰 Technologies I've used: `React`, `Next.js`, `Vue`, `JavaScript`, `Sass`, `Css`, `HTML`, `Django`, `Strapi` 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 🌐 Click [here](https://ammielyawson.com) to view my website
